@@ -435,7 +435,7 @@ function Ultrastellar:create(options)
 		Name = "Ultrastellar",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes[settings.Theme],
-		Link = "https://github.com/deeeity/Ultrastellar-lib"
+		Link = "https://github.com/JJPas/Ultrastellar-UI-Project"
 	}, options)
 
 	if getgenv and getgenv().UltrastellarUI then
